@@ -29,7 +29,8 @@ kafka-producer-wikimedia: Responsible for consuming the Wikimedia EventStreams A
 kafka-consumer-database: Consumes messages from the Kafka topic, persists data to MySQL, and serves a web UI for data visualization.
 
 
-Future Enhancements
+Future Enhancements:
+
 Implement real-time updates using WebSocket for the dashboard
 Add data analytics and aggregation features
 Integrate with a time-series database for improved performance on large datasets
