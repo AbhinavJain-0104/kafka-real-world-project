@@ -1,4 +1,6 @@
 Wikimedia Real-time Event Streaming and Analytics
+
+
 This project demonstrates a real-world application of Apache Kafka for processing and analyzing real-time data streams from Wikimedia. It consists of a Spring Boot-based microservices architecture that ingests, processes, and visualizes recent changes to Wikimedia pages.
 Key Features
 Real-time data ingestion from Wikimedia EventStreams API
